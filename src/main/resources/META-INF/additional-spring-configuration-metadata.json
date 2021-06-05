@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "opentracing.spring.cloud.feign.enabled",
+  "type": "java.lang.String",
+  "description": "A description for 'opentracing.spring.cloud.feign.enabled'"
+}]}
